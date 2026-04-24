@@ -1,0 +1,15 @@
+# TensorFlow with GPU support for CUDA 12.x
+# For CUDA 12.x (RTX 5070), use TensorFlow 2.16+
+tensorflow>=2.16.0
+tensorflow-hub>=0.16.0
+
+# Core dependencies
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+
+# Demo
+gradio>=4.0.0
+
+# Testing
+pytest>=7.0.0
